@@ -1,10 +1,10 @@
 ### 안녕하세요 👋, 제 이름은 주윤호입니다.
 
-✏️ CSE를 전공하는 학생입니다.
-
-💡 Java / Spring / HTML / CSS / MySQL
+✏️ "I am a student majoring in CSE."
 
 🌱 "I'm currently learning Spring Boot!"
+
+💡 Java / Spring / HTML / CSS / MySQL
 
 😄 He/Him
 
