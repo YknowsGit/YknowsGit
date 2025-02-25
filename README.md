@@ -10,7 +10,16 @@
 
 💪 "My hobby is fitness!"
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>
+<a href="https://github.com/YknowsGit" target="_blank">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+</a>
+<a href="https://www.instagram.com/hoo_o012" target="_blank">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>
+</a>
+<a href="https:///yknows.tistory.com" target="_blank">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>
+</a>
+
 
 <div style="text-align: right;">
     <a href="https://solved.ac/ju020620/">
